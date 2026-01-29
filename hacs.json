@@ -1,0 +1,6 @@
+{
+  "name": "PJLink Projector",
+  "content_in_root": false,
+  "domains": ["pjlink_projector"],
+  "iot_class": "local_polling"
+}
