@@ -11,5 +11,5 @@ Multi-vendor PJLink Projector integration for Home Assistant.
 - Vendor extensions (Panasonic temperatures, fan speed)
 
 ## Installation
-Install via HACS as a custom repository.
+Install via HACS as a custom repository or manually.
 
